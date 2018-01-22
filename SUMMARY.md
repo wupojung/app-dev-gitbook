@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Android](android.md)
-* * iOS
+* iOS
 
 
 
